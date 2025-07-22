@@ -1,5 +1,3 @@
-Tentu, berikut adalah contoh README untuk repositori yang berisi penggunaan Font Awesome:
-
 -----
 
 # Font-Awesome-Usage
